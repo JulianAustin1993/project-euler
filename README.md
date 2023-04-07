@@ -1,2 +1,2 @@
 # project-euler
-Solution to Project Euler in C
+Solution to [Project Euler](https://projecteuler.net/) in C.
